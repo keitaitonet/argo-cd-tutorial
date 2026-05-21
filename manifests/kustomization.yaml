@@ -8,4 +8,4 @@ resources:
 images:
 - name: ghcr.io/keitaitonet/nginx-hello
   newName: ghcr.io/keitaitonet/nginx-hello
-  newTag: sha-f2b10a1
+  newTag: sha-068343c
